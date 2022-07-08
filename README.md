@@ -248,3 +248,5 @@ mac: 请确认证书已经被安装并已经设置信任。
 * [fastgit](https://fastgit.org/)
 
 
+https://www.xshell.com/zh/downloading/?token=V2dNeWhhWHhxU0pfYTZpV3dUNGxaZ0BxV2xsV3BmMVpOYXNZNjJvRW9QMmxn
+https://www.xshell.com/zh/downloading/?token=T2hyc2d3N1l4Xzd2YTRXbGpHVnl4UUBxV2xsV3BmMVpOYXNZNjJvRW9QMmxn
